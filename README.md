@@ -28,4 +28,19 @@ Implements:
 -PCA-transformed features (V1–V28), plus Time and Amount  
 
 Dataset link:  
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  
+
+
+
+***How to Run the Project***
+1. Clone the repository  
+git clone https://github.com/yourusername/CreditCard-FraudDetection.git  
+cd CreditCard-FraudDetection  
+
+2. Install dependencies  
+pip install numpy pandas scikit-learn imbalanced-learn xgboost shap tensorflow matplotlib seaborn  
+
+3. Run the notebook  
+Open Jupyter Notebook or VS Code:  
+jupyter notebook fraud_detection.ipynb  
+
