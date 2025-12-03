@@ -34,13 +34,13 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ***How to Run the Project***
 1. Clone the repository  
-git clone https://github.com/yourusername/CreditCard-FraudDetection.git  
-cd CreditCard-FraudDetection  
+https://github.com/SajalDasShovon/Credit_Card_Fraud_Detection_ML_Project    
+cd Credit_Card_Fraud_Detection_ML_Project   
 
 2. Install dependencies  
 pip install numpy pandas scikit-learn imbalanced-learn xgboost shap tensorflow matplotlib seaborn  
 
 3. Run the notebook  
 Open Jupyter Notebook or VS Code:  
-jupyter notebook fraud_detection.ipynb  
+jupyter notebook credit_card_fraud_notebook_final.ipynb  
 
