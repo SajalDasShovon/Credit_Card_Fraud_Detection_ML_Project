@@ -28,4 +28,4 @@ Implements:
 -PCA-transformed features (V1–V28), plus Time and Amount  
 
 Dataset link:  
-https://www.kaggle.com/mlg-ulb/credit-card-fraud-detection
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
